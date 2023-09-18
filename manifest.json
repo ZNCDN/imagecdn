@@ -19,7 +19,7 @@
     }
   ],
   "id": "manifest.json",
-  "start_url": "https://cdn.jsdelivr.net/gh/ZNCDN/imagecdn@main/manifest.json",
+  "start_url": "/",
   "background_color": "#3367D6",
   "display": "standalone",
   "scope": "/",
@@ -46,7 +46,7 @@
       "src": "https://cdn.jsdelivr.net/gh/ZNCDN/imagecdn@main/screenshot1.PNG",
       "type": "image/png",
       "sizes": "987x625",
-      "form_factor": "narrow"
+      "purpose": "any maskable"
     }
   ]
 }
