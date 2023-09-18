@@ -28,14 +28,14 @@
       "name": "Blog Kabar Harian",
       "short_name": "Newstoday",
       "description": "Situs blog yang menyajikan informasi terkini dan terbaru seperti, Teknologi, Tips, Smartphone, Laptop, Ekonomi, Wisata",
-      "url": "https://cdn.jsdelivr.net/gh/ZNCDN/imagecdn@main/manifest.json",
+      "url": "https://cdn.jsdelivr.net/gh/ZNCDN/imagecdn@main/android-chrome-192x192.png",
       "icons": [{ "src": "android-chrome-192x192.png", "sizes": "192x192" }]
     },
     {
       "name": "Blog Kabar Harian",
       "short_name": "Newstoday.id",
       "description": "Situs blog yang menyajikan informasi terkini dan terbaru seperti, Teknologi, Tips, Smartphone, Laptop, Ekonomi, Wisata",
-      "url": "https://cdn.jsdelivr.net/gh/ZNCDN/imagecdn@main/manifest.json",
+      "url": "https://cdn.jsdelivr.net/gh/ZNCDN/imagecdn@main/android-chrome-512x512.png",
       "icons": [{ "src": "android-chrome-192x192.png", "sizes": "192x192" }]
     }
   ],
