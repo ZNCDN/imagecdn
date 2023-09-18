@@ -18,8 +18,8 @@
       "sizes": "512x512"
     }
   ],
-  "id": "/?source=pwa",
-  "start_url": "/?source=pwa",
+  "id": "manifest.json",
+  "start_url": "https://cdn.jsdelivr.net/gh/ZNCDN/imagecdn@main/manifest.json",
   "background_color": "#3367D6",
   "display": "standalone",
   "scope": "/",
@@ -43,7 +43,7 @@
   "description": "Situs blog yang menyajikan informasi terkini dan terbaru seperti, Teknologi, Tips, Smartphone, Laptop, Ekonomi, Wisata",
   "screenshots": [
     {
-      "src": "/screenshot1.png",
+      "src": "https://cdn.jsdelivr.net/gh/ZNCDN/imagecdn@main/screenshot1.PNG",
       "type": "image/png",
       "sizes": "987x625",
       "form_factor": "narrow"
