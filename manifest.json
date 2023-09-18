@@ -22,6 +22,7 @@
   "start_url": "newstoday.id",
   "background_color": "#3367D6",
   "display": "standalone",
+  "prefer_related_applications": true,
   "theme_color": "#6a778a",
   "shortcuts": [
     {
