@@ -43,7 +43,7 @@
   "description": "Situs blog yang menyajikan informasi terkini dan terbaru seperti, Teknologi, Tips, Smartphone, Laptop, Ekonomi, Wisata",
   "screenshots": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/ZNCDN/imagecdn@main/screenshot1.PNG",
+      "src": "screenshot1.PNG",
       "type": "image/png",
       "sizes": "987x625",
       "purpose": "any maskable"
